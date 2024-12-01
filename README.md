@@ -3,7 +3,7 @@
   </p>
   
   <p align="center">
-  <img src="https://i.ibb.co/ctcFv12/photo-2024-08-30-02-25-09.jpg" alt=" Logo" />
+  <img src="https://i.ibb.co/rGw0s5M/photo-2024-08-30-02-25-09-removebg-preview.png" alt=" Logo" />
 </p>
 
   <br>
