@@ -1,9 +1,9 @@
  <p align=center>
-  <a href="https://dark4rmy.in/"><img title="Made in INDIA" src="https://img.shields.io/badge/MADE%20IN-INDIA-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
+  <a href="https://vcam.live/"><img title="Made in INDIA" src="https://img.shields.io/badge/MADE%20IN-VIETNAM-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
   </p>
   
   <p align="center">
-  <img src="https://github.com/D4RK-4RMY/DARKARMY/blob/main/darkarmylogo-removebg-preview%20(2).png" alt=" Logo" />
+  <img src="https://i.ibb.co/ctcFv12/photo-2024-08-30-02-25-09.jpg" alt=" Logo" />
 </p>
 
   <br>
