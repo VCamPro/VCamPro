@@ -1,0 +1,14 @@
+Elephy - All Social Media Downloader
+
+🔥 I’m excited to introduce my latest app: Elephy, a tool for sharing and downloading photos, videos, and audio from various social media platforms such as Instagram, Facebook, TikTok, Spotify, Capcut, YouTube, Douyin, X, SoundCloud, and more!
+
+👌 Easy to use: Just copy the link, open the app, and press 'Paste'—it's that simple!
+
+✏️ Note:
+
+The link you copy must be from a public post. Links to private posts may be restricted and might not work.
+In some countries, the app may not function properly for downloading. If you encounter issues, feel free to comment or inbox me with your User ID, and I’ll check it for you.
+
+ANDROID: https://play.google.com/store/apps/details?id=com.onequy.elephy&fbclid=IwY2xjawHFUMxleHRuA2FlbQIxMAABHcG8i5LwfdijM9GlnXo2hxtFhpAy5Ak1omYS0jGfvIZ-_NyIvdBWgEhPJw_aem_i77GKsR3hj3e3C911nZ4ZQ&pli=1
+APPLE: https://apps.apple.com/us/app/elephy-media/id6737163761
+
